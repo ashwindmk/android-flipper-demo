@@ -39,9 +39,9 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
 
     // Flipper
-    debugImplementation 'com.facebook.flipper:flipper:0.212.0'
+    debugImplementation 'com.facebook.flipper:flipper:0.238.0'
     debugImplementation 'com.facebook.soloader:soloader:0.10.5'
-    releaseImplementation 'com.facebook.flipper:flipper-noop:0.212.0'
+    releaseImplementation 'com.facebook.flipper:flipper-noop:0.238.0'
 
     // Test
     testImplementation 'junit:junit:4.13.2'
